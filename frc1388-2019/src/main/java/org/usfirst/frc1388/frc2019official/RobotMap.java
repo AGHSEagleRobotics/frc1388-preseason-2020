@@ -17,7 +17,6 @@ public class RobotMap
      * VictorSPX Can IDs
      */
     public static final int CANID_drivetrain_LB = 4;
-    public static final int CANID_drivetrain_RB = 1;
     public static final int CANID_elevatorMotor = 5;
     public static final int CANID_climbArm = 6;
     public static final int CANID_climbWheels = 10;
@@ -32,7 +31,7 @@ public class RobotMap
 
     /* PCM1 channels */
     public static final int PCMCH_diskEjector = 1;
-    public static final int PCMCH_ballejector = 2;
+    public static final int PCMCH_ballEjector = 2;
     public static final int PCMCH_manipulatorPush = 3;
     public static final int PCMCH_manipulatorPull = 4;
     public static final int PCMCH_pancakeArmPush = 5;
