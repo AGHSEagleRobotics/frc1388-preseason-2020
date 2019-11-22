@@ -20,7 +20,7 @@ public class RobotMap
     public static final int CANID_drivetrain_RB = 1;
     public static final int CANID_elevatorMotor = 5;
     public static final int CANID_climbArm = 6;
-    public static final int CANID_climbWheels = 7;
+    public static final int CANID_climbWheels = 10;
 
     /**
      *   Pneumatics Control Modules
